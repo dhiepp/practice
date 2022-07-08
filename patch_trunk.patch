@@ -1,0 +1,8 @@
+diff --git a/hello2.txt b/hello2.txt
+index 0324180..c389898 100644
+--- a/hello2.txt
++++ b/hello2.txt
+@@ -1,2 +1,3 @@
+ Text from main branch
+ Text from porting branch
++Text in patch
